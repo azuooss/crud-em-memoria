@@ -1,0 +1,15 @@
+{
+  "name": "crud-em-memoria",
+  "version": "1.0.0",
+  "description": "Projeto da missão de aprendizado do nível iniciante: CRUD em memória - Salvatore Academy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
